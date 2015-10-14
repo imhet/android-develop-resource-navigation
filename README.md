@@ -7,7 +7,16 @@
 ### android online source code 
 
 * [androidxref](http://androidxref.com/)
-*  
+* [grepcode](http://grepcode.com/)
+
+
+---
+
+### resources collection
+
+* [awesome-android](https://github.com/snowdream/awesome-android) 收集了很多android相关类库
+* [一些android开发教程](http://bxbxbai.gitcafe.io/2014/10/07/android-develop-resource/)
+* [android tips](https://github.com/tangqi92/Android-Tips)
 
 
 ---
