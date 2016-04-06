@@ -4,7 +4,7 @@
 
 ---
 
-### android online source code 
+## android 在线源码查看
 
 * [androidxref](http://androidxref.com/)
 * [grepcode](http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/)
@@ -12,18 +12,19 @@
 
 ---
 
-### resources collection
+## 资源教程收集
 
 * [AndroidDevTools](http://www.androiddevtools.cn/)
 * [MobDevGroups](http://www.mobdevgroup.com/)
 * [awesome-android](https://github.com/snowdream/awesome-android) 
 * [一些android开发教程](http://bxbxbai.gitcafe.io/2014/10/07/android-develop-resource/)
 * [android tips](https://github.com/tangqi92/Android-Tips)
+* [android插件化开发资源](android插件化开发.md)
 
 
 ---
 
-### development blogs
+## 网站博客
 
 * [android weekly](http://androidweekly.net/)
 * [android dev digest](http://www.androiddevdigest.com/)
@@ -42,7 +43,7 @@
 
 ---
 
-### download google play app
+## 下载google play app
 
 * [apk downloader](http://apps.evozi.com/apk-downloader/) 
 * [apkpure](http://apkpure.com/)
