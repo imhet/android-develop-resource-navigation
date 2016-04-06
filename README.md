@@ -7,7 +7,7 @@
 ### android online source code 
 
 * [androidxref](http://androidxref.com/)
-* [grepcode](http://grepcode.com/)
+* [grepcode](http://grepcode.com/project/repository.grepcode.com/java/ext/com.google.android/android/)
 
 
 ---
@@ -29,6 +29,7 @@
 * [android dev digest](http://www.androiddevdigest.com/)
 * [square open source](http://square.github.io/)
 * [facebook android open source](https://code.facebook.com/android/)
+* [阿里技术沙龙](http://club.alibabatech.org)
 * [美团技术博客](http://tech.meituan.com/)
 * [腾讯bugly](http://bugly.qq.com/blog/)
 * [android-cn-discuss](https://github.com/android-cn/android-discuss/issues)
@@ -44,3 +45,4 @@
 ### download google play app
 
 * [apk downloader](http://apps.evozi.com/apk-downloader/) 
+* [apkpure](http://apkpure.com/)
